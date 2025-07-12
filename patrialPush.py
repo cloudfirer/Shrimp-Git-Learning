@@ -5,4 +5,6 @@ values = ['Alice', 25, 'New York']
 dictionary = dict(zip(keys, values))
 print(dictionary)
 
+print("Part 1")
 print("Part 2")
+print("Part 3")
